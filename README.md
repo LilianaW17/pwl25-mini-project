@@ -1,4 +1,5 @@
 # Mini Proyek UTS - REST API Pengelola Data PKM
+## Ajeng Sakinah Wulandari (F1D022001)
 
 Ini adalah mini proyek untuk Ujian Tengah Semester (UTS) mata kuliah Pemrograman Web Lanjut.
 
@@ -22,10 +23,10 @@ Proyek ini menggunakan struktur folder MVC dan Middleware agar kode tetap rapi d
 ## Hasil Uji Coba POSTMAN
 
 1. Menampilkan semua data dari tabel proposals dengan menggunakan GET pada POSTMAN
-(screenshots/get-data.png)
+![alt text](screenshots/get-data.png)
 
 2. Gagal menampilkan semua data dari tabel karena url tidak sesuai dengan yang diatur pada kode
-(screenshots/error-det-data.png)
+![alt text](screenshots/error-det-data.png)
 
 3. Menambahkan data baru dengan menggunakan POST pada POSTMAN dan menambahkan sesuai dengan kolom-kolom pada tabel proposals
 ![alt text](screenshots/create-data.png)
